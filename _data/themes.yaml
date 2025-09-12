@@ -1,0 +1,14 @@
+- title: Brain-Inspired Computing
+  image: images/Brain-Inspired Computing.jpeg
+  description: Brain-inspired computing mimicking neural functions
+  group: theme
+
+- title: Spiking Neural Networks
+  image: images/SNN.jpeg
+  description: Spiking neural network mimics pulse-driven brain besides ANN.
+  group: theme
+
+- title: Spike Camera
+  image: images/Spike Camera.png
+  description: 40k frames per second, capturing ultra-high-speed.
+  group: theme
